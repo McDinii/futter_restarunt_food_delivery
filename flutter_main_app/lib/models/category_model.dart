@@ -60,7 +60,7 @@ class Category extends Equatable {
     Category(
       id: '5',
       name: 'Salads',
-      description: 'This is a test description',
+      description: 'Healthy',
       imageUrl: 'assets/avocado.png',
       index: 4,
     ),

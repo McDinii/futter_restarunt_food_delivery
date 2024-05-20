@@ -1,4 +1,4 @@
-{
+[{
   "address": {
     "geometry": {
       "location": {
@@ -54,5 +54,9 @@
       "restaurantId": "9P2YnyYSFUypdMNAMB30"
     }
   ],
-  "tags": ["italian", "desserts", "Drinks", "Pizza"]
-}
+  "tags": ["italian", "desserts", "Drinks", "Pizza"],
+  "name": "restarunt1",
+  "description": "Лучший в Минске",
+  "id": "1",
+  "imageUrl": ""
+}]
