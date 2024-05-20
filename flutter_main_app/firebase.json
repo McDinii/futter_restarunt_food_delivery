@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "course-prjct",
+          "appId": "1:144028663131:android:43fbd7084622d7fb1a6e7e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "course-prjct",
+          "appId": "1:144028663131:ios:125272f8dc913cd51a6e7e",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "course-prjct",
+          "configurations": {
+            "android": "1:144028663131:android:43fbd7084622d7fb1a6e7e",
+            "ios": "1:144028663131:ios:125272f8dc913cd51a6e7e",
+            "web": "1:144028663131:web:6ea5712c190fe6711a6e7e"
+          }
+        }
+      }
+    }
+  }
+}
